@@ -2,7 +2,7 @@ import { Button } from "@/components/ui/button"; // Assuming Button component im
 
 export default function Home() {
   const handleClick = () => {
-    window.location.href = "https://your-desired-url.com"; // Replace with your actual URL
+    window.location.href = "bozomath.vercel.app"; // Replace with your actual URL
   };
 
   return (
